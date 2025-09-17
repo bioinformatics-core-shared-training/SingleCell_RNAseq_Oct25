@@ -1,6 +1,6 @@
-# Single Cell RNASeq December 2024
+# Single Cell RNASeq October 2025
 
-Introduction to scRNA-seq analysis, January 2024.
+Introduction to scRNA-seq analysis, October 2025.
 
 
 ## Updating Materials
